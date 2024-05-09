@@ -79,7 +79,7 @@ export default function RecordList() {
                         <th>Name</th>
                         <th>Position</th>
                         <th>Level</th>
-                        <th>Action</th>
+                        <th>Take Action</th>
                     </tr>
                 </thead>
                 <tbody>{recordList()}</tbody>
